@@ -150,5 +150,16 @@
             </plugin>
         </plugins>
     </build>
+</develpers>
+
+	<developer>
+
+	<name>xitarps</name>
+	<email>xitarps@gmail.com</email>
+
+	</developer>
+
+
+</develpers>
 
 </project>
