@@ -150,7 +150,8 @@
             </plugin>
         </plugins>
     </build>
-</developers>
+    
+<developers>
 
 	<developer>
 
