@@ -44,7 +44,7 @@ public class SessaoController {
 	return modelAndView;
 	}
 	
-	@PostMapping(value = "/admin/sesao")
+	@PostMapping(value = "/admin/sessao")
 	@Transactional
 	public ModelAndView salva(@Valid SessaoForm form, BindingResult result)
 	{
